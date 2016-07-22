@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 7bd00bc9f54093c4f84bf18095fd9030
+timeCreated: 1448250792
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Lamp
+    100006: leg1
+    100008: leg2
+    100010: Sphere
+    100012: Sphere.002
+    100014: Sphere.003
+    100016: Sphere.003_MeshPart0
+    100018: Sphere.003_MeshPart1
+    100020: Sphere.004
+    100022: Sphere.004_MeshPart0
+    100024: Sphere.004_MeshPart1
+    100026: Sphere.005
+    100028: Sphere.006
+    100030: Sphere.008
+    100032: Sphere.009
+    100034: Sphere.010
+    100036: Sphere.011
+    100038: Sphere_MeshPart0
+    100040: Sphere_MeshPart1
+    100042: Torus
+    100044: Torus_MeshPart0
+    100046: Torus_MeshPart1
+    400000: Camera
+    400002: //RootNode
+    400004: Lamp
+    400006: leg1
+    400008: leg2
+    400010: Sphere
+    400012: Sphere.002
+    400014: Sphere.003
+    400016: Sphere.003_MeshPart0
+    400018: Sphere.003_MeshPart1
+    400020: Sphere.004
+    400022: Sphere.004_MeshPart0
+    400024: Sphere.004_MeshPart1
+    400026: Sphere.005
+    400028: Sphere.006
+    400030: Sphere.008
+    400032: Sphere.009
+    400034: Sphere.010
+    400036: Sphere.011
+    400038: Sphere_MeshPart0
+    400040: Sphere_MeshPart1
+    400042: Torus
+    400044: Torus_MeshPart0
+    400046: Torus_MeshPart1
+    2300000: leg1
+    2300002: leg2
+    2300004: Sphere.002
+    2300006: Sphere.003_MeshPart0
+    2300008: Sphere.003_MeshPart1
+    2300010: Sphere.004_MeshPart0
+    2300012: Sphere.004_MeshPart1
+    2300014: Sphere.005
+    2300016: Sphere.006
+    2300018: Sphere.008
+    2300020: Sphere.009
+    2300022: Sphere.010
+    2300024: Sphere.011
+    2300026: Sphere_MeshPart0
+    2300028: Sphere_MeshPart1
+    2300030: Torus_MeshPart0
+    2300032: Torus_MeshPart1
+    3300000: leg1
+    3300002: leg2
+    3300004: Sphere.002
+    3300006: Sphere.003_MeshPart0
+    3300008: Sphere.003_MeshPart1
+    3300010: Sphere.004_MeshPart0
+    3300012: Sphere.004_MeshPart1
+    3300014: Sphere.005
+    3300016: Sphere.006
+    3300018: Sphere.008
+    3300020: Sphere.009
+    3300022: Sphere.010
+    3300024: Sphere.011
+    3300026: Sphere_MeshPart0
+    3300028: Sphere_MeshPart1
+    3300030: Torus_MeshPart0
+    3300032: Torus_MeshPart1
+    4300000: Sphere.008
+    4300002: Sphere_MeshPart0
+    4300004: Sphere_MeshPart1
+    4300006: Sphere.005
+    4300008: leg2
+    4300010: Sphere.009
+    4300012: Sphere.011
+    4300014: Sphere.003_MeshPart0
+    4300016: Sphere.003_MeshPart1
+    4300018: Sphere.006
+    4300020: Sphere.010
+    4300022: Sphere.004_MeshPart0
+    4300024: Sphere.004_MeshPart1
+    4300026: leg1
+    4300028: Sphere.002
+    4300030: Torus_MeshPart0
+    4300032: Torus_MeshPart1
+    7400000: Sphere.003|Sphere.003Action
+    7400002: Sphere.003|Sphere.004Action.001
+    7400004: Sphere.004|Sphere.003Action
+    7400006: Sphere.004|Sphere.004Action.001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
